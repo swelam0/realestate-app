@@ -1,13 +1,17 @@
 his video is perfect for you if you want to improve your #ReactJS and #NextJS skills by building Realtor - an amazing Real Estate Application. With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel, and much more, Realtor is the best Real Estate App that you can currently find on YouTube.
 
-⭐ RapidAPI - https://rapidapi.com/hub?utm_source=y...
-⭐ Bayut API - https://rapidapi.com/apidojo/api/bayu...
+⭐ RapidAPI - https://rapidapi.com/hub?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
+
+
+⭐ Bayut API - https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
+
 
 📚 Materials/References:
-GitHub Code (give it a star ⭐) - https://github.com/adrianhajdin/proje...
-Mentioned Code - https://gist.github.com/adrianhajdin/...
+GitHub Code (give it a star ⭐) - https://github.com/adrianhajdin/projects_realestate
 
-📧 Join our exclusive JavaScript Mastery Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmasterypro.com/new... 🔥
+
+Mentioned Code - https://gist.github.com/adrianhajdin/2fb91c8b6e7b2e64671c85ea4c05cbc9
+
 
 By the end of this video, you'll learn:
 
